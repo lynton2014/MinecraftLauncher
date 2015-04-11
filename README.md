@@ -1,0 +1,2 @@
+# MinecraftLauncher
+A Minecraft Launcher
